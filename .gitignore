@@ -1,0 +1,8 @@
+setting.xml
+/test3.txt
+mydir/test3.txt
+#mydir/**
+mydir/*/test3.txt
+#mydir/**/test3.txt
+*.b
+#!a.b
